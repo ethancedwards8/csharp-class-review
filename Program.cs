@@ -7,7 +7,7 @@ namespace TutorialProjects_EthanEdwards
         static void Main(string[] args)
         {
 
-            FindLetterGrade.Main();
+            ProductProject.Main();
 
 
 
